@@ -3,14 +3,14 @@
 background-color: lightgray;
 }
 /* navbar button */
-.navitem{
+.nav-item{
     background-color:maroon;
     font-size: 2em;
     line-height: 1.5;
  padding: 0px;
     border-bottom:1px solid black;
 }
-.navbarnav{
+.navbar-nav{
     padding-top: 5px;
 }
 .li-chicken:hover{
